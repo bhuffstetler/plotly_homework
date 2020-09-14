@@ -14,7 +14,6 @@ Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs fo
 
 
 
-
 Use sample_values as the values for the bar chart.
 
 
