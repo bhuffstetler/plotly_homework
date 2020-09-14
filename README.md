@@ -22,4 +22,4 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-
+![alt tag](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/unc-peace-data-pt-05-2020-u-c/raw/master/15-Interactive-Visualizations-and-Dashboards/Homework/Images/hw01.png)
